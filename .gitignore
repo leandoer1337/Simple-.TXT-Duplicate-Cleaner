@@ -1,0 +1,16 @@
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+# PyInstaller build folders
+dist/
+build/
+*.spec
+
+# Executables
+*.exe
+*.msi
+
+# Logs and temp files
+*.log
+*.tmp

@@ -1,6 +1,7 @@
 # Simple .TXT Duplicate Cleaner
 
 A lightweight Python GUI tool that scans `.txt` files or entire folders for duplicate lines and removes them. Built with `tkinter`, it provides a clean interface and supports dark mode, icon customization, and a Windows installer.
+Download the installer [HERE](https://github.com/leandoer1337/Simple-.TXT-Duplicate-Cleaner/releases).
 
 ---
 
